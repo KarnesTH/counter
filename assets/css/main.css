@@ -1,0 +1,21 @@
+.c__main {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 300px;
+  width: 80%;
+  margin: 200px auto;
+}
+
+.c__main h1 {
+  margin-bottom: 15px;
+  font-size: 5rem;
+}
+
+.c__main .c__numText {
+  font-size: 5rem;
+  font-weight: bold;
+  padding: 4rem;
+  margin-bottom: 30px;
+}
